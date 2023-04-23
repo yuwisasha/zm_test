@@ -4,7 +4,6 @@ import urls, db
 import json
 
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 
 
 try:
