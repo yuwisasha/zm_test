@@ -1,0 +1,1 @@
+SELECT id, cookie FROM cookie_profile;
